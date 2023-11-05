@@ -1,0 +1,3 @@
+name: sketch-blend-pulumi
+runtime: nodejs
+description: A minimal TypeScript Pulumi program
