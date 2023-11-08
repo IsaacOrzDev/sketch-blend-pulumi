@@ -13,7 +13,7 @@ const run = async () => {
   const functionUrl = await initApiModuleLambda(westProvider);
 
   return {
-    apiUrl: functionUrl.functionUrl,
+    apiUrl: functionUrl,
   };
 };
 
